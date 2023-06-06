@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tsutsumi-ozro.github.io/sitemap.xml
